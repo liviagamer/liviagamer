@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 🖤
 
-<!--
-**liviagamer/liviagamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Livia
 
-Here are some ideas to get you started:
+- Estou estudando na [aluna](https://ww.alura.com.br)
+- Estou desenvolvendo linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📧
+
+00001095126787SP@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/stitch-love-gif-16983374293743860224)
